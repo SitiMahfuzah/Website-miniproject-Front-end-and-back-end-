@@ -1,0 +1,14 @@
+.container {
+  max-width: 960px;
+}
+
+.edit-box {
+  border-radius: 40px !important;
+}
+.prev-btn {
+  margin-right: 1000px!important;
+}
+
+.edit-ctnr {
+margin-left: 250px !important;
+}

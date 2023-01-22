@@ -1,0 +1,31 @@
+.profile-pic {
+    width: 120px !important;
+    height: 120px !important;
+    border-radius: 100px !important;
+}
+.edit-btn {
+    background-color: #f6b9b6!important;
+    color: black !important;
+    box-shadow: rgba(45, 35, 66, 0.4) 0 2px 4px,rgba(45, 35, 66, 0.3) 0 7px 13px -3px,#D6D6E7 0 -3px 0 inset !important;
+    border: 3px #f6b9b6 !important;
+    box-sizing: border-box !important;
+    font-size: 20px !important;
+    width: 100px !important;
+    border-radius: 20px !important;
+    margin-top: 10px !important;
+    margin-left: 600px !important;
+    height:40px !important;
+}
+
+.cancel-btn1 {
+    border: none;
+    background-color: transparent;
+    font-size: 18px;
+    text-align: center !important;
+    margin-top: 10px !important;
+}
+
+.font-sz {
+    font-size: 20px !important;
+}
+
